@@ -1,7 +1,9 @@
 
-print("Hello World!")
+print(("Hello World!"), "bebra")
 
 
-a = 30
-b = 12
+
+a = 302
+d = 420
+b = 1221
 c = a + b
